@@ -2,6 +2,8 @@
 
 A map of Chinese towns and counties that make a large share of a single product (buttons in Qiaotou, Christmas decorations in Yiwu, oil paintings in Dafen, and so on).
 
+**Live map: https://bbaid.github.io/china-niche-industries/**. It redeploys automatically from `web/` on every push to `main`. Run `python scripts/build.py` before you commit, so the map includes your CSV changes.
+
 ```
 data/clusters.csv        <- the source of truth; edit this
 data/clusters.geojson    <- generated; load in QGIS / ArcGIS / geojson.io
