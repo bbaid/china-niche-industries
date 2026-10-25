@@ -1,0 +1,62 @@
+id,industry,category,place_en,place_zh,city_zh,city_en,province,level,lat,lon,claim,search_zh
+1,Buttons & zippers,Accessories & small goods,Qiaotou Town,桥头镇,温州市,Wenzhou,Zhejiang,town,28.170,120.474,"Called China's 'button capital'; widely reported to make most of the world's buttons (2000s figures)",桥头 纽扣
+2,Christmas decorations,Toys & seasonal goods,Yiwu,义乌市,金华市,Jinhua,Zhejiang,city,29.306,120.075,"Commonly cited as the source of 60-80% of the world's Christmas decorations",义乌 圣诞用品
+3,Oil paintings,Arts & crafts,Dafen Village,大芬村,深圳市,Shenzhen,Guangdong,village,22.607,114.136,"At its 2000s peak said to paint ~60% of oil paintings sold worldwide (mostly reproductions)",大芬 油画村
+4,Socks,Textiles & apparel,Datang,大唐街道,诸暨市,Zhuji,Zhejiang,town,29.670,120.170,"'Sock City'; reported to make roughly a third of the world's socks",大唐 袜业
+5,Freshwater pearls,Jewelry & gems,Shanxiahu Town,山下湖镇,诸暨市,Zhuji,Zhejiang,town,29.820,120.380,"Reported to supply ~70% of the world's freshwater pearls",山下湖 珍珠
+6,Neckties,Textiles & apparel,Shengzhou,嵊州市,绍兴市,Shaoxing,Zhejiang,county-level city,29.588,120.821,"Reported to make ~40% of the world's ties",嵊州 领带
+7,Lighters,Accessories & small goods,Wenzhou,温州市,温州市,Wenzhou,Zhejiang,city,28.000,120.670,"Once made ~70% of the world's metal lighters (2000s)",温州 打火机
+8,Eyeglasses & lenses,Accessories & small goods,Danyang,丹阳市,镇江市,Zhenjiang,Jiangsu,county-level city,32.000,119.580,"'Glasses city'; reported to make a third or more of the world's spectacle lenses",丹阳 眼镜
+9,Wedding dresses (retail),Textiles & apparel,Huqiu Wedding Dress City,虎丘婚纱城,苏州市,Suzhou,Jiangsu,district,31.330,120.580,"China's largest domestic wedding-dress street",虎丘 婚纱
+10,Wedding & evening dresses (export),Textiles & apparel,Chaozhou,潮州市,潮州市,Chaozhou,Guangdong,city,23.660,116.620,"Holds the 'China wedding & evening dress capital' title; export oriented",潮州 婚纱晚礼服
+11,Pianos,Musical instruments,Luoshe Town,洛舍镇,湖州市,Huzhou,Zhejiang,town,30.620,120.070,"Reported to build about a third of China's pianos",洛舍 钢琴
+12,Violins,Musical instruments,Huangqiao Town,黄桥镇,泰州市,Taizhou (Jiangsu),Jiangsu,town,32.250,120.250,"Reported to make ~30% of the world's violins",黄桥 小提琴
+13,Guitars,Musical instruments,Zheng'an County,正安县,遵义市,Zunyi,Guizhou,county,28.550,107.450,"Around 6 million guitars a year at its peak",正安 吉他
+14,Luggage & bags,Accessories & small goods,Baigou,白沟镇,保定市,Baoding,Hebei,town,39.130,116.030,"Northern China's largest bag manufacturing and wholesale hub",白沟 箱包
+15,Underwear & bras,Textiles & apparel,Gurao Town,谷饶镇,汕头市,Shantou,Guangdong,town,23.350,116.400,"'China's underwear town'",谷饶 内衣
+16,Toys,Toys & seasonal goods,Chenghai,澄海区,汕头市,Shantou,Guangdong,district,23.470,116.760,"'China's toy capital'; thousands of toy makers",澄海 玩具
+17,False eyelashes,Beauty & hair,Pingdu,平度市,青岛市,Qingdao,Shandong,county-level city,36.780,119.960,"Reported to make ~70% of the world's false eyelashes",平度 假睫毛
+18,Wigs & hair products,Beauty & hair,Xuchang,许昌市,许昌市,Xuchang,Henan,city,34.030,113.850,"Described as the world's largest hair-product base",许昌 发制品
+19,Jeans,Textiles & apparel,Xintang Town,新塘镇,广州市,Guangzhou,Guangdong,town,23.130,113.610,"Nicknamed the 'jeans capital of the world'",新塘 牛仔
+20,Sports shoes,Textiles & apparel,Jinjiang,晋江市,泉州市,Quanzhou,Fujian,county-level city,24.780,118.550,"Home of Anta, Xtep, 361 Degrees and Peak",晋江 鞋业
+21,Swimwear,Textiles & apparel,Xingcheng,兴城市,葫芦岛市,Huludao,Liaoning,county-level city,40.620,120.730,"Reported to make about a quarter of the world's swimwear",兴城 泳装
+22,Children's bicycles & strollers,Toys & seasonal goods,Pingxiang County,平乡县,邢台市,Xingtai,Hebei,county,37.070,115.030,"One of China's largest kids' bike clusters",平乡 童车
+23,Knives & scissors,Hardware & industrial,Yangjiang,阳江市,阳江市,Yangjiang,Guangdong,city,21.860,111.980,"'China's knife and scissors capital'",阳江 刀剪
+24,Umbrellas,Accessories & small goods,Songxia,崧厦街道,绍兴市,Shaoxing,Zhejiang,town,30.090,120.840,"Reported to make about a third of the world's umbrellas",崧厦 伞业
+25,Porcelain figurines,Arts & crafts,Dehua County,德化县,泉州市,Quanzhou,Fujian,county,25.490,118.240,"'Blanc de Chine' white porcelain; big ceramic gift exporter",德化 陶瓷
+26,Zisha (Yixing) teapots,Arts & crafts,Dingshu Town,丁蜀镇,无锡市,Wuxi,Jiangsu,town,31.300,119.850,"The only source of zisha clay teapots",丁蜀 紫砂
+27,Fireworks,Toys & seasonal goods,Liuyang,浏阳市,长沙市,Changsha,Hunan,county-level city,28.160,113.640,"Reported to ship over half of China's fireworks exports",浏阳 花炮
+28,Festival lantern displays,Arts & crafts,Zigong,自贡市,自贡市,Zigong,Sichuan,city,29.340,104.780,"Builds giant lantern shows that tour worldwide",自贡 彩灯
+29,Su embroidery,Arts & crafts,Zhenhu,镇湖街道,苏州市,Suzhou,Jiangsu,town,31.330,120.400,"Centre of Suzhou-style silk embroidery",镇湖 刺绣
+30,Garlic,Agriculture & food,Jinxiang County,金乡县,济宁市,Jining,Shandong,county,35.070,116.310,"Reported to handle ~70% of the world's garlic trade",金乡 大蒜
+31,Hardware & thermos cups,Hardware & industrial,Yongkang,永康市,金华市,Jinhua,Zhejiang,county-level city,28.890,120.050,"'China's hardware capital' (vacuum cups, doors, scooters, tools)",永康 五金
+32,Wooden toys,Toys & seasonal goods,Yunhe County,云和县,丽水市,Lishui,Zhejiang,county,28.120,119.570,"'China's wooden toy town'",云和 木制玩具
+33,Office chairs,Furniture & home,Anji County,安吉县,湖州市,Huzhou,Zhejiang,county,30.640,119.680,"'China's chair capital'",安吉 椅业
+34,Furniture,Furniture & home,Lecong Town,乐从镇,佛山市,Foshan,Guangdong,town,22.950,113.090,"Kilometres of furniture showrooms; huge trade market",乐从 家具
+35,Lighting & lamps,Furniture & home,Guzhen Town,古镇镇,中山市,Zhongshan,Guangdong,town,22.610,113.190,"'China's lighting capital'",古镇 灯饰
+36,Jadeite carving & trade,Jewelry & gems,Pingzhou,平洲,佛山市,Foshan,Guangdong,town,23.020,113.170,"Major Burmese jadeite trading and carving hub",平洲 玉器
+37,Kites,Toys & seasonal goods,Weifang,潍坊市,潍坊市,Weifang,Shandong,city,36.710,119.160,"'Kite capital of the world'",潍坊 风筝
+38,Synthetic diamonds,Hardware & industrial,Zhecheng County,柘城县,商丘市,Shangqiu,Henan,county,34.090,115.310,"Henan makes most of China's synthetic diamonds; Zhecheng is a key base",柘城 金刚石
+39,Hanfu costumes & coffins,Textiles & apparel,Cao County,曹县,菏泽市,Heze,Shandong,county,34.830,115.540,"Big Hanfu e-commerce base; also known for wooden coffins exported to Japan",曹县 汉服
+40,Fishing rods & tackle,Sports & outdoors,Weihai,威海市,威海市,Weihai,Shandong,city,37.510,122.120,"Reported to make a large share of the world's fishing rods",威海 渔具
+41,Cashmere,Textiles & apparel,Qinghe County,清河县,邢台市,Xingtai,Hebei,county,37.040,115.670,"Processes a large share of the world's cashmere",清河 羊绒
+42,Plush toys,Toys & seasonal goods,Yangzhou,扬州市,扬州市,Yangzhou,Jiangsu,city,32.390,119.410,"One of China's main plush-toy production bases",扬州 毛绒玩具
+43,Pens,Accessories & small goods,Fenshui Town,分水镇,杭州市,Hangzhou,Zhejiang,town,29.930,119.430,"'China's pen-making town'",分水 制笔
+44,Gold jewelry,Jewelry & gems,Shuibei,水贝,深圳市,Shenzhen,Guangdong,district,22.570,114.120,"Handles most of China's gold jewelry wholesale",水贝 黄金珠宝
+45,Children's clothing,Textiles & apparel,Zhili Town,织里镇,湖州市,Huzhou,Zhejiang,town,30.830,120.270,"'China's children's clothing capital'",织里 童装
+46,Home textiles & bedding,Textiles & apparel,Dieshiqiao,叠石桥,南通市,Nantong,Jiangsu,town,32.000,121.050,"One of China's largest home-textile markets",叠石桥 家纺
+47,Porcelain,Arts & crafts,Jingdezhen,景德镇市,景德镇市,Jingdezhen,Jiangxi,city,29.270,117.180,"China's historic 'porcelain capital'",景德镇 陶瓷
+48,Silk & synthetic fabric,Textiles & apparel,Shengze Town,盛泽镇,苏州市,Suzhou,Jiangsu,town,30.920,120.650,"One of China's biggest fabric-weaving towns",盛泽 丝绸
+49,Crayfish,Agriculture & food,Qianjiang,潜江市,潜江市,Qianjiang,Hubei,county-level city,30.400,112.900,"'Crayfish capital' of China",潜江 小龙虾
+50,Tieguanyin oolong tea,Agriculture & food,Anxi County,安溪县,泉州市,Quanzhou,Fujian,county,25.060,118.190,"Home of Tieguanyin oolong tea",安溪 铁观音
+51,Lighters (today),Accessories & small goods,Shaodong,邵东市,邵阳市,Shaoyang,Hunan,county-level city,27.258,111.744,"Lighter makers relocated here from Wenzhou; now reported to make most of the world's lighters",邵东 打火机
+52,Sweaters & knitwear,Textiles & apparel,Puyuan Town,濮院镇,嘉兴市,Jiaxing,Zhejiang,town,30.670,120.614,"One of China's largest woollen-sweater production and wholesale towns",濮院 毛衫
+53,Leather goods & jackets,Textiles & apparel,Haining,海宁市,嘉兴市,Jiaxing,Zhejiang,county-level city,30.530,120.680,"Home of China Leather City, a huge leather-clothing market",海宁 皮革
+54,Crystal glass ornaments,Arts & crafts,Pujiang County,浦江县,金华市,Jinhua,Zhejiang,county,29.450,119.890,"'China's crystal capital'; cut-glass beads and ornaments",浦江 水晶
+55,Wood carving & redwood furniture,Arts & crafts,Dongyang,东阳市,金华市,Jinhua,Zhejiang,county-level city,29.290,120.240,"Dongyang wood carving is a national intangible heritage craft",东阳 木雕
+56,Jade carving,Jewelry & gems,Zhenping County,镇平县,南阳市,Nanyang,Henan,county,33.030,112.230,"One of China's biggest jade-carving and jade-trading centres",镇平 玉雕
+57,Small home appliances,Furniture & home,Cixi,慈溪市,宁波市,Ningbo,Zhejiang,county-level city,30.170,121.270,"Major cluster for small appliances (heaters, fans, kitchen gadgets)",慈溪 小家电
+58,Luggage,Accessories & small goods,Pinghu,平湖市,嘉兴市,Jiaxing,Zhejiang,county-level city,30.680,121.020,"A leading Chinese luggage and suitcase production base",平湖 箱包
+59,Sunglasses,Accessories & small goods,Xiamen,厦门市,厦门市,Xiamen,Fujian,city,24.480,118.090,"Reported to make a large share of the world's sunglasses",厦门 太阳镜
+60,Ceramic tiles,Furniture & home,Nanzhuang Town,南庄镇,佛山市,Foshan,Guangdong,town,23.020,113.020,"Heart of Foshan's building-ceramics industry",南庄 陶瓷
+61,Flat-pack furniture (e-commerce),Furniture & home,Shaji Town,沙集镇,徐州市,Xuzhou,Jiangsu,town,33.930,118.150,"An early, famous Taobao village; online flat-pack furniture",沙集 家具 淘宝村

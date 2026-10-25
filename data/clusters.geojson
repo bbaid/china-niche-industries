@@ -1,0 +1,1408 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.474,
+     28.17
+    ]
+   },
+   "properties": {
+    "id": 1,
+    "industry": "Buttons & zippers",
+    "category": "Accessories & small goods",
+    "place_en": "Qiaotou Town",
+    "place_zh": "桥头镇",
+    "city_zh": "温州市",
+    "city_en": "Wenzhou",
+    "province": "Zhejiang",
+    "level": "town",
+    "claim": "Called China's 'button capital'; widely reported to make most of the world's buttons (2000s figures)",
+    "search_zh": "桥头 纽扣"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.075,
+     29.306
+    ]
+   },
+   "properties": {
+    "id": 2,
+    "industry": "Christmas decorations",
+    "category": "Toys & seasonal goods",
+    "place_en": "Yiwu",
+    "place_zh": "义乌市",
+    "city_zh": "金华市",
+    "city_en": "Jinhua",
+    "province": "Zhejiang",
+    "level": "city",
+    "claim": "Commonly cited as the source of 60-80% of the world's Christmas decorations",
+    "search_zh": "义乌 圣诞用品"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.136,
+     22.607
+    ]
+   },
+   "properties": {
+    "id": 3,
+    "industry": "Oil paintings",
+    "category": "Arts & crafts",
+    "place_en": "Dafen Village",
+    "place_zh": "大芬村",
+    "city_zh": "深圳市",
+    "city_en": "Shenzhen",
+    "province": "Guangdong",
+    "level": "village",
+    "claim": "At its 2000s peak said to paint ~60% of oil paintings sold worldwide (mostly reproductions)",
+    "search_zh": "大芬 油画村"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.17,
+     29.67
+    ]
+   },
+   "properties": {
+    "id": 4,
+    "industry": "Socks",
+    "category": "Textiles & apparel",
+    "place_en": "Datang",
+    "place_zh": "大唐街道",
+    "city_zh": "诸暨市",
+    "city_en": "Zhuji",
+    "province": "Zhejiang",
+    "level": "town",
+    "claim": "'Sock City'; reported to make roughly a third of the world's socks",
+    "search_zh": "大唐 袜业"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.38,
+     29.82
+    ]
+   },
+   "properties": {
+    "id": 5,
+    "industry": "Freshwater pearls",
+    "category": "Jewelry & gems",
+    "place_en": "Shanxiahu Town",
+    "place_zh": "山下湖镇",
+    "city_zh": "诸暨市",
+    "city_en": "Zhuji",
+    "province": "Zhejiang",
+    "level": "town",
+    "claim": "Reported to supply ~70% of the world's freshwater pearls",
+    "search_zh": "山下湖 珍珠"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.821,
+     29.588
+    ]
+   },
+   "properties": {
+    "id": 6,
+    "industry": "Neckties",
+    "category": "Textiles & apparel",
+    "place_en": "Shengzhou",
+    "place_zh": "嵊州市",
+    "city_zh": "绍兴市",
+    "city_en": "Shaoxing",
+    "province": "Zhejiang",
+    "level": "county-level city",
+    "claim": "Reported to make ~40% of the world's ties",
+    "search_zh": "嵊州 领带"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.67,
+     28.0
+    ]
+   },
+   "properties": {
+    "id": 7,
+    "industry": "Lighters",
+    "category": "Accessories & small goods",
+    "place_en": "Wenzhou",
+    "place_zh": "温州市",
+    "city_zh": "温州市",
+    "city_en": "Wenzhou",
+    "province": "Zhejiang",
+    "level": "city",
+    "claim": "Once made ~70% of the world's metal lighters (2000s)",
+    "search_zh": "温州 打火机"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.58,
+     32.0
+    ]
+   },
+   "properties": {
+    "id": 8,
+    "industry": "Eyeglasses & lenses",
+    "category": "Accessories & small goods",
+    "place_en": "Danyang",
+    "place_zh": "丹阳市",
+    "city_zh": "镇江市",
+    "city_en": "Zhenjiang",
+    "province": "Jiangsu",
+    "level": "county-level city",
+    "claim": "'Glasses city'; reported to make a third or more of the world's spectacle lenses",
+    "search_zh": "丹阳 眼镜"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.58,
+     31.33
+    ]
+   },
+   "properties": {
+    "id": 9,
+    "industry": "Wedding dresses (retail)",
+    "category": "Textiles & apparel",
+    "place_en": "Huqiu Wedding Dress City",
+    "place_zh": "虎丘婚纱城",
+    "city_zh": "苏州市",
+    "city_en": "Suzhou",
+    "province": "Jiangsu",
+    "level": "district",
+    "claim": "China's largest domestic wedding-dress street",
+    "search_zh": "虎丘 婚纱"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.62,
+     23.66
+    ]
+   },
+   "properties": {
+    "id": 10,
+    "industry": "Wedding & evening dresses (export)",
+    "category": "Textiles & apparel",
+    "place_en": "Chaozhou",
+    "place_zh": "潮州市",
+    "city_zh": "潮州市",
+    "city_en": "Chaozhou",
+    "province": "Guangdong",
+    "level": "city",
+    "claim": "Holds the 'China wedding & evening dress capital' title; export oriented",
+    "search_zh": "潮州 婚纱晚礼服"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.07,
+     30.62
+    ]
+   },
+   "properties": {
+    "id": 11,
+    "industry": "Pianos",
+    "category": "Musical instruments",
+    "place_en": "Luoshe Town",
+    "place_zh": "洛舍镇",
+    "city_zh": "湖州市",
+    "city_en": "Huzhou",
+    "province": "Zhejiang",
+    "level": "town",
+    "claim": "Reported to build about a third of China's pianos",
+    "search_zh": "洛舍 钢琴"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.25,
+     32.25
+    ]
+   },
+   "properties": {
+    "id": 12,
+    "industry": "Violins",
+    "category": "Musical instruments",
+    "place_en": "Huangqiao Town",
+    "place_zh": "黄桥镇",
+    "city_zh": "泰州市",
+    "city_en": "Taizhou (Jiangsu)",
+    "province": "Jiangsu",
+    "level": "town",
+    "claim": "Reported to make ~30% of the world's violins",
+    "search_zh": "黄桥 小提琴"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.45,
+     28.55
+    ]
+   },
+   "properties": {
+    "id": 13,
+    "industry": "Guitars",
+    "category": "Musical instruments",
+    "place_en": "Zheng'an County",
+    "place_zh": "正安县",
+    "city_zh": "遵义市",
+    "city_en": "Zunyi",
+    "province": "Guizhou",
+    "level": "county",
+    "claim": "Around 6 million guitars a year at its peak",
+    "search_zh": "正安 吉他"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.03,
+     39.13
+    ]
+   },
+   "properties": {
+    "id": 14,
+    "industry": "Luggage & bags",
+    "category": "Accessories & small goods",
+    "place_en": "Baigou",
+    "place_zh": "白沟镇",
+    "city_zh": "保定市",
+    "city_en": "Baoding",
+    "province": "Hebei",
+    "level": "town",
+    "claim": "Northern China's largest bag manufacturing and wholesale hub",
+    "search_zh": "白沟 箱包"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.4,
+     23.35
+    ]
+   },
+   "properties": {
+    "id": 15,
+    "industry": "Underwear & bras",
+    "category": "Textiles & apparel",
+    "place_en": "Gurao Town",
+    "place_zh": "谷饶镇",
+    "city_zh": "汕头市",
+    "city_en": "Shantou",
+    "province": "Guangdong",
+    "level": "town",
+    "claim": "'China's underwear town'",
+    "search_zh": "谷饶 内衣"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.76,
+     23.47
+    ]
+   },
+   "properties": {
+    "id": 16,
+    "industry": "Toys",
+    "category": "Toys & seasonal goods",
+    "place_en": "Chenghai",
+    "place_zh": "澄海区",
+    "city_zh": "汕头市",
+    "city_en": "Shantou",
+    "province": "Guangdong",
+    "level": "district",
+    "claim": "'China's toy capital'; thousands of toy makers",
+    "search_zh": "澄海 玩具"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.96,
+     36.78
+    ]
+   },
+   "properties": {
+    "id": 17,
+    "industry": "False eyelashes",
+    "category": "Beauty & hair",
+    "place_en": "Pingdu",
+    "place_zh": "平度市",
+    "city_zh": "青岛市",
+    "city_en": "Qingdao",
+    "province": "Shandong",
+    "level": "county-level city",
+    "claim": "Reported to make ~70% of the world's false eyelashes",
+    "search_zh": "平度 假睫毛"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.85,
+     34.03
+    ]
+   },
+   "properties": {
+    "id": 18,
+    "industry": "Wigs & hair products",
+    "category": "Beauty & hair",
+    "place_en": "Xuchang",
+    "place_zh": "许昌市",
+    "city_zh": "许昌市",
+    "city_en": "Xuchang",
+    "province": "Henan",
+    "level": "city",
+    "claim": "Described as the world's largest hair-product base",
+    "search_zh": "许昌 发制品"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.61,
+     23.13
+    ]
+   },
+   "properties": {
+    "id": 19,
+    "industry": "Jeans",
+    "category": "Textiles & apparel",
+    "place_en": "Xintang Town",
+    "place_zh": "新塘镇",
+    "city_zh": "广州市",
+    "city_en": "Guangzhou",
+    "province": "Guangdong",
+    "level": "town",
+    "claim": "Nicknamed the 'jeans capital of the world'",
+    "search_zh": "新塘 牛仔"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.55,
+     24.78
+    ]
+   },
+   "properties": {
+    "id": 20,
+    "industry": "Sports shoes",
+    "category": "Textiles & apparel",
+    "place_en": "Jinjiang",
+    "place_zh": "晋江市",
+    "city_zh": "泉州市",
+    "city_en": "Quanzhou",
+    "province": "Fujian",
+    "level": "county-level city",
+    "claim": "Home of Anta, Xtep, 361 Degrees and Peak",
+    "search_zh": "晋江 鞋业"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.73,
+     40.62
+    ]
+   },
+   "properties": {
+    "id": 21,
+    "industry": "Swimwear",
+    "category": "Textiles & apparel",
+    "place_en": "Xingcheng",
+    "place_zh": "兴城市",
+    "city_zh": "葫芦岛市",
+    "city_en": "Huludao",
+    "province": "Liaoning",
+    "level": "county-level city",
+    "claim": "Reported to make about a quarter of the world's swimwear",
+    "search_zh": "兴城 泳装"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.03,
+     37.07
+    ]
+   },
+   "properties": {
+    "id": 22,
+    "industry": "Children's bicycles & strollers",
+    "category": "Toys & seasonal goods",
+    "place_en": "Pingxiang County",
+    "place_zh": "平乡县",
+    "city_zh": "邢台市",
+    "city_en": "Xingtai",
+    "province": "Hebei",
+    "level": "county",
+    "claim": "One of China's largest kids' bike clusters",
+    "search_zh": "平乡 童车"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.98,
+     21.86
+    ]
+   },
+   "properties": {
+    "id": 23,
+    "industry": "Knives & scissors",
+    "category": "Hardware & industrial",
+    "place_en": "Yangjiang",
+    "place_zh": "阳江市",
+    "city_zh": "阳江市",
+    "city_en": "Yangjiang",
+    "province": "Guangdong",
+    "level": "city",
+    "claim": "'China's knife and scissors capital'",
+    "search_zh": "阳江 刀剪"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.84,
+     30.09
+    ]
+   },
+   "properties": {
+    "id": 24,
+    "industry": "Umbrellas",
+    "category": "Accessories & small goods",
+    "place_en": "Songxia",
+    "place_zh": "崧厦街道",
+    "city_zh": "绍兴市",
+    "city_en": "Shaoxing",
+    "province": "Zhejiang",
+    "level": "town",
+    "claim": "Reported to make about a third of the world's umbrellas",
+    "search_zh": "崧厦 伞业"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.24,
+     25.49
+    ]
+   },
+   "properties": {
+    "id": 25,
+    "industry": "Porcelain figurines",
+    "category": "Arts & crafts",
+    "place_en": "Dehua County",
+    "place_zh": "德化县",
+    "city_zh": "泉州市",
+    "city_en": "Quanzhou",
+    "province": "Fujian",
+    "level": "county",
+    "claim": "'Blanc de Chine' white porcelain; big ceramic gift exporter",
+    "search_zh": "德化 陶瓷"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.85,
+     31.3
+    ]
+   },
+   "properties": {
+    "id": 26,
+    "industry": "Zisha (Yixing) teapots",
+    "category": "Arts & crafts",
+    "place_en": "Dingshu Town",
+    "place_zh": "丁蜀镇",
+    "city_zh": "无锡市",
+    "city_en": "Wuxi",
+    "province": "Jiangsu",
+    "level": "town",
+    "claim": "The only source of zisha clay teapots",
+    "search_zh": "丁蜀 紫砂"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.64,
+     28.16
+    ]
+   },
+   "properties": {
+    "id": 27,
+    "industry": "Fireworks",
+    "category": "Toys & seasonal goods",
+    "place_en": "Liuyang",
+    "place_zh": "浏阳市",
+    "city_zh": "长沙市",
+    "city_en": "Changsha",
+    "province": "Hunan",
+    "level": "county-level city",
+    "claim": "Reported to ship over half of China's fireworks exports",
+    "search_zh": "浏阳 花炮"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     104.78,
+     29.34
+    ]
+   },
+   "properties": {
+    "id": 28,
+    "industry": "Festival lantern displays",
+    "category": "Arts & crafts",
+    "place_en": "Zigong",
+    "place_zh": "自贡市",
+    "city_zh": "自贡市",
+    "city_en": "Zigong",
+    "province": "Sichuan",
+    "level": "city",
+    "claim": "Builds giant lantern shows that tour worldwide",
+    "search_zh": "自贡 彩灯"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.4,
+     31.33
+    ]
+   },
+   "properties": {
+    "id": 29,
+    "industry": "Su embroidery",
+    "category": "Arts & crafts",
+    "place_en": "Zhenhu",
+    "place_zh": "镇湖街道",
+    "city_zh": "苏州市",
+    "city_en": "Suzhou",
+    "province": "Jiangsu",
+    "level": "town",
+    "claim": "Centre of Suzhou-style silk embroidery",
+    "search_zh": "镇湖 刺绣"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.31,
+     35.07
+    ]
+   },
+   "properties": {
+    "id": 30,
+    "industry": "Garlic",
+    "category": "Agriculture & food",
+    "place_en": "Jinxiang County",
+    "place_zh": "金乡县",
+    "city_zh": "济宁市",
+    "city_en": "Jining",
+    "province": "Shandong",
+    "level": "county",
+    "claim": "Reported to handle ~70% of the world's garlic trade",
+    "search_zh": "金乡 大蒜"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.05,
+     28.89
+    ]
+   },
+   "properties": {
+    "id": 31,
+    "industry": "Hardware & thermos cups",
+    "category": "Hardware & industrial",
+    "place_en": "Yongkang",
+    "place_zh": "永康市",
+    "city_zh": "金华市",
+    "city_en": "Jinhua",
+    "province": "Zhejiang",
+    "level": "county-level city",
+    "claim": "'China's hardware capital' (vacuum cups, doors, scooters, tools)",
+    "search_zh": "永康 五金"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.57,
+     28.12
+    ]
+   },
+   "properties": {
+    "id": 32,
+    "industry": "Wooden toys",
+    "category": "Toys & seasonal goods",
+    "place_en": "Yunhe County",
+    "place_zh": "云和县",
+    "city_zh": "丽水市",
+    "city_en": "Lishui",
+    "province": "Zhejiang",
+    "level": "county",
+    "claim": "'China's wooden toy town'",
+    "search_zh": "云和 木制玩具"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.68,
+     30.64
+    ]
+   },
+   "properties": {
+    "id": 33,
+    "industry": "Office chairs",
+    "category": "Furniture & home",
+    "place_en": "Anji County",
+    "place_zh": "安吉县",
+    "city_zh": "湖州市",
+    "city_en": "Huzhou",
+    "province": "Zhejiang",
+    "level": "county",
+    "claim": "'China's chair capital'",
+    "search_zh": "安吉 椅业"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.09,
+     22.95
+    ]
+   },
+   "properties": {
+    "id": 34,
+    "industry": "Furniture",
+    "category": "Furniture & home",
+    "place_en": "Lecong Town",
+    "place_zh": "乐从镇",
+    "city_zh": "佛山市",
+    "city_en": "Foshan",
+    "province": "Guangdong",
+    "level": "town",
+    "claim": "Kilometres of furniture showrooms; huge trade market",
+    "search_zh": "乐从 家具"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.19,
+     22.61
+    ]
+   },
+   "properties": {
+    "id": 35,
+    "industry": "Lighting & lamps",
+    "category": "Furniture & home",
+    "place_en": "Guzhen Town",
+    "place_zh": "古镇镇",
+    "city_zh": "中山市",
+    "city_en": "Zhongshan",
+    "province": "Guangdong",
+    "level": "town",
+    "claim": "'China's lighting capital'",
+    "search_zh": "古镇 灯饰"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.17,
+     23.02
+    ]
+   },
+   "properties": {
+    "id": 36,
+    "industry": "Jadeite carving & trade",
+    "category": "Jewelry & gems",
+    "place_en": "Pingzhou",
+    "place_zh": "平洲",
+    "city_zh": "佛山市",
+    "city_en": "Foshan",
+    "province": "Guangdong",
+    "level": "town",
+    "claim": "Major Burmese jadeite trading and carving hub",
+    "search_zh": "平洲 玉器"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.16,
+     36.71
+    ]
+   },
+   "properties": {
+    "id": 37,
+    "industry": "Kites",
+    "category": "Toys & seasonal goods",
+    "place_en": "Weifang",
+    "place_zh": "潍坊市",
+    "city_zh": "潍坊市",
+    "city_en": "Weifang",
+    "province": "Shandong",
+    "level": "city",
+    "claim": "'Kite capital of the world'",
+    "search_zh": "潍坊 风筝"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.31,
+     34.09
+    ]
+   },
+   "properties": {
+    "id": 38,
+    "industry": "Synthetic diamonds",
+    "category": "Hardware & industrial",
+    "place_en": "Zhecheng County",
+    "place_zh": "柘城县",
+    "city_zh": "商丘市",
+    "city_en": "Shangqiu",
+    "province": "Henan",
+    "level": "county",
+    "claim": "Henan makes most of China's synthetic diamonds; Zhecheng is a key base",
+    "search_zh": "柘城 金刚石"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.54,
+     34.83
+    ]
+   },
+   "properties": {
+    "id": 39,
+    "industry": "Hanfu costumes & coffins",
+    "category": "Textiles & apparel",
+    "place_en": "Cao County",
+    "place_zh": "曹县",
+    "city_zh": "菏泽市",
+    "city_en": "Heze",
+    "province": "Shandong",
+    "level": "county",
+    "claim": "Big Hanfu e-commerce base; also known for wooden coffins exported to Japan",
+    "search_zh": "曹县 汉服"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.12,
+     37.51
+    ]
+   },
+   "properties": {
+    "id": 40,
+    "industry": "Fishing rods & tackle",
+    "category": "Sports & outdoors",
+    "place_en": "Weihai",
+    "place_zh": "威海市",
+    "city_zh": "威海市",
+    "city_en": "Weihai",
+    "province": "Shandong",
+    "level": "city",
+    "claim": "Reported to make a large share of the world's fishing rods",
+    "search_zh": "威海 渔具"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.67,
+     37.04
+    ]
+   },
+   "properties": {
+    "id": 41,
+    "industry": "Cashmere",
+    "category": "Textiles & apparel",
+    "place_en": "Qinghe County",
+    "place_zh": "清河县",
+    "city_zh": "邢台市",
+    "city_en": "Xingtai",
+    "province": "Hebei",
+    "level": "county",
+    "claim": "Processes a large share of the world's cashmere",
+    "search_zh": "清河 羊绒"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.41,
+     32.39
+    ]
+   },
+   "properties": {
+    "id": 42,
+    "industry": "Plush toys",
+    "category": "Toys & seasonal goods",
+    "place_en": "Yangzhou",
+    "place_zh": "扬州市",
+    "city_zh": "扬州市",
+    "city_en": "Yangzhou",
+    "province": "Jiangsu",
+    "level": "city",
+    "claim": "One of China's main plush-toy production bases",
+    "search_zh": "扬州 毛绒玩具"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.43,
+     29.93
+    ]
+   },
+   "properties": {
+    "id": 43,
+    "industry": "Pens",
+    "category": "Accessories & small goods",
+    "place_en": "Fenshui Town",
+    "place_zh": "分水镇",
+    "city_zh": "杭州市",
+    "city_en": "Hangzhou",
+    "province": "Zhejiang",
+    "level": "town",
+    "claim": "'China's pen-making town'",
+    "search_zh": "分水 制笔"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.12,
+     22.57
+    ]
+   },
+   "properties": {
+    "id": 44,
+    "industry": "Gold jewelry",
+    "category": "Jewelry & gems",
+    "place_en": "Shuibei",
+    "place_zh": "水贝",
+    "city_zh": "深圳市",
+    "city_en": "Shenzhen",
+    "province": "Guangdong",
+    "level": "district",
+    "claim": "Handles most of China's gold jewelry wholesale",
+    "search_zh": "水贝 黄金珠宝"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.27,
+     30.83
+    ]
+   },
+   "properties": {
+    "id": 45,
+    "industry": "Children's clothing",
+    "category": "Textiles & apparel",
+    "place_en": "Zhili Town",
+    "place_zh": "织里镇",
+    "city_zh": "湖州市",
+    "city_en": "Huzhou",
+    "province": "Zhejiang",
+    "level": "town",
+    "claim": "'China's children's clothing capital'",
+    "search_zh": "织里 童装"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.05,
+     32.0
+    ]
+   },
+   "properties": {
+    "id": 46,
+    "industry": "Home textiles & bedding",
+    "category": "Textiles & apparel",
+    "place_en": "Dieshiqiao",
+    "place_zh": "叠石桥",
+    "city_zh": "南通市",
+    "city_en": "Nantong",
+    "province": "Jiangsu",
+    "level": "town",
+    "claim": "One of China's largest home-textile markets",
+    "search_zh": "叠石桥 家纺"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.18,
+     29.27
+    ]
+   },
+   "properties": {
+    "id": 47,
+    "industry": "Porcelain",
+    "category": "Arts & crafts",
+    "place_en": "Jingdezhen",
+    "place_zh": "景德镇市",
+    "city_zh": "景德镇市",
+    "city_en": "Jingdezhen",
+    "province": "Jiangxi",
+    "level": "city",
+    "claim": "China's historic 'porcelain capital'",
+    "search_zh": "景德镇 陶瓷"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.65,
+     30.92
+    ]
+   },
+   "properties": {
+    "id": 48,
+    "industry": "Silk & synthetic fabric",
+    "category": "Textiles & apparel",
+    "place_en": "Shengze Town",
+    "place_zh": "盛泽镇",
+    "city_zh": "苏州市",
+    "city_en": "Suzhou",
+    "province": "Jiangsu",
+    "level": "town",
+    "claim": "One of China's biggest fabric-weaving towns",
+    "search_zh": "盛泽 丝绸"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.9,
+     30.4
+    ]
+   },
+   "properties": {
+    "id": 49,
+    "industry": "Crayfish",
+    "category": "Agriculture & food",
+    "place_en": "Qianjiang",
+    "place_zh": "潜江市",
+    "city_zh": "潜江市",
+    "city_en": "Qianjiang",
+    "province": "Hubei",
+    "level": "county-level city",
+    "claim": "'Crayfish capital' of China",
+    "search_zh": "潜江 小龙虾"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.19,
+     25.06
+    ]
+   },
+   "properties": {
+    "id": 50,
+    "industry": "Tieguanyin oolong tea",
+    "category": "Agriculture & food",
+    "place_en": "Anxi County",
+    "place_zh": "安溪县",
+    "city_zh": "泉州市",
+    "city_en": "Quanzhou",
+    "province": "Fujian",
+    "level": "county",
+    "claim": "Home of Tieguanyin oolong tea",
+    "search_zh": "安溪 铁观音"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.744,
+     27.258
+    ]
+   },
+   "properties": {
+    "id": 51,
+    "industry": "Lighters (today)",
+    "category": "Accessories & small goods",
+    "place_en": "Shaodong",
+    "place_zh": "邵东市",
+    "city_zh": "邵阳市",
+    "city_en": "Shaoyang",
+    "province": "Hunan",
+    "level": "county-level city",
+    "claim": "Lighter makers relocated here from Wenzhou; now reported to make most of the world's lighters",
+    "search_zh": "邵东 打火机"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.614,
+     30.67
+    ]
+   },
+   "properties": {
+    "id": 52,
+    "industry": "Sweaters & knitwear",
+    "category": "Textiles & apparel",
+    "place_en": "Puyuan Town",
+    "place_zh": "濮院镇",
+    "city_zh": "嘉兴市",
+    "city_en": "Jiaxing",
+    "province": "Zhejiang",
+    "level": "town",
+    "claim": "One of China's largest woollen-sweater production and wholesale towns",
+    "search_zh": "濮院 毛衫"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.68,
+     30.53
+    ]
+   },
+   "properties": {
+    "id": 53,
+    "industry": "Leather goods & jackets",
+    "category": "Textiles & apparel",
+    "place_en": "Haining",
+    "place_zh": "海宁市",
+    "city_zh": "嘉兴市",
+    "city_en": "Jiaxing",
+    "province": "Zhejiang",
+    "level": "county-level city",
+    "claim": "Home of China Leather City, a huge leather-clothing market",
+    "search_zh": "海宁 皮革"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.89,
+     29.45
+    ]
+   },
+   "properties": {
+    "id": 54,
+    "industry": "Crystal glass ornaments",
+    "category": "Arts & crafts",
+    "place_en": "Pujiang County",
+    "place_zh": "浦江县",
+    "city_zh": "金华市",
+    "city_en": "Jinhua",
+    "province": "Zhejiang",
+    "level": "county",
+    "claim": "'China's crystal capital'; cut-glass beads and ornaments",
+    "search_zh": "浦江 水晶"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.24,
+     29.29
+    ]
+   },
+   "properties": {
+    "id": 55,
+    "industry": "Wood carving & redwood furniture",
+    "category": "Arts & crafts",
+    "place_en": "Dongyang",
+    "place_zh": "东阳市",
+    "city_zh": "金华市",
+    "city_en": "Jinhua",
+    "province": "Zhejiang",
+    "level": "county-level city",
+    "claim": "Dongyang wood carving is a national intangible heritage craft",
+    "search_zh": "东阳 木雕"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.23,
+     33.03
+    ]
+   },
+   "properties": {
+    "id": 56,
+    "industry": "Jade carving",
+    "category": "Jewelry & gems",
+    "place_en": "Zhenping County",
+    "place_zh": "镇平县",
+    "city_zh": "南阳市",
+    "city_en": "Nanyang",
+    "province": "Henan",
+    "level": "county",
+    "claim": "One of China's biggest jade-carving and jade-trading centres",
+    "search_zh": "镇平 玉雕"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.27,
+     30.17
+    ]
+   },
+   "properties": {
+    "id": 57,
+    "industry": "Small home appliances",
+    "category": "Furniture & home",
+    "place_en": "Cixi",
+    "place_zh": "慈溪市",
+    "city_zh": "宁波市",
+    "city_en": "Ningbo",
+    "province": "Zhejiang",
+    "level": "county-level city",
+    "claim": "Major cluster for small appliances (heaters, fans, kitchen gadgets)",
+    "search_zh": "慈溪 小家电"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.02,
+     30.68
+    ]
+   },
+   "properties": {
+    "id": 58,
+    "industry": "Luggage",
+    "category": "Accessories & small goods",
+    "place_en": "Pinghu",
+    "place_zh": "平湖市",
+    "city_zh": "嘉兴市",
+    "city_en": "Jiaxing",
+    "province": "Zhejiang",
+    "level": "county-level city",
+    "claim": "A leading Chinese luggage and suitcase production base",
+    "search_zh": "平湖 箱包"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.09,
+     24.48
+    ]
+   },
+   "properties": {
+    "id": 59,
+    "industry": "Sunglasses",
+    "category": "Accessories & small goods",
+    "place_en": "Xiamen",
+    "place_zh": "厦门市",
+    "city_zh": "厦门市",
+    "city_en": "Xiamen",
+    "province": "Fujian",
+    "level": "city",
+    "claim": "Reported to make a large share of the world's sunglasses",
+    "search_zh": "厦门 太阳镜"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     113.02,
+     23.02
+    ]
+   },
+   "properties": {
+    "id": 60,
+    "industry": "Ceramic tiles",
+    "category": "Furniture & home",
+    "place_en": "Nanzhuang Town",
+    "place_zh": "南庄镇",
+    "city_zh": "佛山市",
+    "city_en": "Foshan",
+    "province": "Guangdong",
+    "level": "town",
+    "claim": "Heart of Foshan's building-ceramics industry",
+    "search_zh": "南庄 陶瓷"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.15,
+     33.93
+    ]
+   },
+   "properties": {
+    "id": 61,
+    "industry": "Flat-pack furniture (e-commerce)",
+    "category": "Furniture & home",
+    "place_en": "Shaji Town",
+    "place_zh": "沙集镇",
+    "city_zh": "徐州市",
+    "city_en": "Xuzhou",
+    "province": "Jiangsu",
+    "level": "town",
+    "claim": "An early, famous Taobao village; online flat-pack furniture",
+    "search_zh": "沙集 家具 淘宝村"
+   }
+  }
+ ]
+}

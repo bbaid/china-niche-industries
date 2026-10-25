@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Intermediate output from scripts/check_coords.py --write
+data/geocoded.csv
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
